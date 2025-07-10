@@ -1,7 +1,7 @@
 # Task-Reminder
 Website Pengingat Tugas 
 
-📚 Deskripsi
+#📚 Deskripsi
 
 Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memantau, dan mengingatkan deadline tugas, khususnya ditujukan untuk membantu mahasiswa mengorganisir tugas-tugas mereka. Dengan aplikasi ini, user dapat:
 
