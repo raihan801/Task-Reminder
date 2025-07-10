@@ -3,6 +3,7 @@ Website Pengingat Tugas
 
 # 📚 Deskripsi
 Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memantau, dan mengingatkan deadline tugas, khususnya ditujukan untuk membantu mahasiswa mengorganisir tugas-tugas mereka. Dengan aplikasi ini, user dapat:
+
 • Membuat daftar tugas beserta deadline
 
 • Menandai tugas sebagai selesai
@@ -11,7 +12,7 @@ Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memant
 
 • Melihat daftar tugas aktif di dashboard setelah login
 
-🚀 Fitur Utama
+# 🚀 Fitur Utama
 
 ✅ Registrasi & login user
 
@@ -26,7 +27,7 @@ Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memant
 ✅ Logout user
 
 
-🛠 Teknologi
+# 🛠 Teknologi
 
 • Front-end: HTML, CSS (sederhana, PHP-based templating)
 
@@ -34,7 +35,7 @@ Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memant
 
 • Database: MySQL (struktur ada di file database.sql)
 
-⚙️ Cara Setup
+# ⚙️ Cara Setup
 1. Import database:
 
   • Buka phpMyAdmin, buat database misalnya task_reminder_db
@@ -45,6 +46,6 @@ Task Reminder adalah aplikasi berbasis web yang digunakan untuk mencatat, memant
 
 3. Jalankan di lokal menggunakan server PHP (XAMPP/Laragon) atau upload ke hosting dengan support PHP & MySQL.
 
-🎯 Tujuan Proyek
+# 🎯 Tujuan Proyek
 
 Dibuat sebagai proyek tugas kuliah untuk membantu mahasiswa memanage deadline tugas, sekaligus latihan implementasi CRUD dengan PHP dan MySQL.
